@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تكة</string>
+    <string name="app_motto">بتكة  ع التكة</string>
+
+
+    <string name="content_description">صورة</string>
+    <string name="title_login">تسجيل الدخول</string>
+    <string name="et_hint_email_id">البريد الإلكتروني</string>
+    <string name="et_hint_password">كلمة المرور</string>
+    <string name="lbl_forgot_password">نسيت كلمة السر؟</string>
+    <string name="btn_lbl_login">دخول</string>
+    <string name="don_t_have_an_account">ليس لديك حساب؟</string>
+    <string name="register"><u>سجل</u></string>
+
+    <string name="create_an_account">أنشئ حساباً</string>
+
+    <string name="hint_last_name">الكنية</string>
+    <string name="hint_first_name">الاسم</string>
+    <string name="et_hint_confirm_password">تأكيد كلمة المرور</string>
+
+    <string name="i_agree_to_the_terms_and_condition">أوافق على <u> الشروط و الأحكام</u></string>
+    <string name="btn_lbl_register">سجل</string>
+
+    <string name="already_have_an_account">تمتلك حساب؟</string>
+    <string name="login"><u>سجل الدخول</u></string>
+
+    <string name="err_msg_enter_first_name">يرجى كتابة الإسم الأول</string>
+    <string name="err_msg_enter_last_name">يرجى كتابة الكنية</string>
+    <string name="err_msg_enter_email">يرجة كتابة البريد الإلكتروني</string>
+    <string name="err_msg_enter_password">يرجى كتابة كلمة المرور</string>
+    <string name="err_msg_enter_confirm_password">يرجى تأكيد كلمة المرور</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">كلمة المرور و تأكيد كلمة المرور غير متطابقان</string>
+    <string name="err_msg_agree_terms_and_condition">يرجى الموافقة على الشروط والأحكام</string>
+
+    <string name="please_wait">يرجى الإنتظار&#8230;</string>
+
+    <string name="title_forgot_password">نسيت كلمة المرور؟</string>
+    <string name="forgot_password_title_description">أدخل اسم المستخدم والبريد الإلكتروني وسيصلك رسالة بريد إلكتروني لإعادة ضبط كلمة المرور</string>
+    <string name="btn_lbl_submit">أرسل</string>
+
+    <string name="email_sent_success">تم إرسال رسالة إعادة ضبط كلمة السر بنجاح</string>
+
+    <string name="register_success">تم تسجيل حسابك بنجاح</string>
+
+    <string name="title_complete_profile">أكمل ملفك الشخصي</string>
+    <string name="et_hint_mobile_number">رقم الهاتف</string>
+
+    <string name="rb_lbl_male">ذكر</string>
+    <string name="rb_lbl_female">أنثى</string>
+    <string name="btn_lbl_save">حفظ</string>
+
+    <string name="read_storage_permission_denied">عذراً! لقد قمت برفض الإذن للسماح بالتخزين. لا تقلق لا يزال بإمكانك السماح بها من الإعدادت </string>
+    <string name="image_selection_failed">فشل إختيار الصورة!</string>
+
+    <string name="err_msg_enter_mobile_number">يرجى إدخال رقم الهاتف</string>
+
+    <string name="msg_profile_update_success">تم تحديث ملفك الشحصي بنجاح</string>
+
+
+    <string name="title_activity_dashboard">الصفحة الرئيسية</string>
+
+
+    <string name="title_dashboard">لوحة المعلومات</string>
+    <string name="title_products">المنتجات</string>
+    <string name="title_orders">الطلبات</string>
+
+    <string name="please_click_back_again_to_exit">يرجى الضغط على زر الرجوع مجددا للخروج</string>
+
+    <string name="action_settings">الإعدادات</string>
+
+    <string name="title_settings">الإعدادات</string>
+    <string name="lbl_edit">تعديل</string>
+    <string name="lbl_addresses">العناوين</string>
+    <string name="btn_lbl_logout">تسجيل الخروج</string>
+
+    <string name="title_edit_profile">تعديل الملف الشخصي</string>
+
+    <string name="action_add_product">أضف منتجا</string>
+
+    <string name="title_add_product">أضف منتجا</string>
+    <string name="et_hint_product_title">عنوان المنتج</string>
+    <string name="et_hint_product_price">سعر المنتج (د.أ)</string>
+    <string name="et_hint_product_description">وصف المنتج</string>
+    <string name="et_hint_product_quantity">كمية المنتج</string>
+
+    <string name="err_msg_select_product_image">يرجى اختيار صورة للمنتج</string>
+    <string name="err_msg_enter_product_title">يرجى إدخال عنوان المنتج</string>
+    <string name="err_msg_enter_product_price">يرجى إدخال سعر المنتج</string>
+    <string name="err_msg_enter_product_description">يرجى إدخال وصف المنتج</string>
+    <string name="err_msg_enter_product_quantity">يرجى إدخال كمية المنتج</string>
+
+    <string name="product_uploaded_success_message">تم إضافة منتجك بنجاح</string>
+    <string name="no_products_added_yet">لم يتم إضافة منتجات بعد!</string>
+    <string name="no_dashboard_item_found">لا يوجد أي عناصر!</string>
+
+    <string name="product_delete_success_message">تم حذف منتجك بنجاح</string>
+    <string name="delete_dialog_title">حذف</string>
+    <string name="delete_dialog_message">أنت على وشك حذف المنتج! هل تريد حذفه بالفعل</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+
+    <string name="title_product_details">تفاصيل المنتج</string>
+    <string name="lbl_product_description">وصف المنتج</string>
+    <string name="lbl_product_details_stock_quantity">الكمية في المستودع</string>
+
+    <string name="btn_lbl_add_to_cart">أضف إلى سلة المشتريات</string>
+    <string name="success_message_item_added_to_cart">تم إضافة المنتج الى سلة المشتريات</string>
+    <string name="btn_lbl_go_to_cart">إذهب الى السلة</string>
+
+    <string name="title_my_cart">سلتي</string>
+    <string name="no_cart_item_found">لا يوجد أي عنصر في السلة!</string>
+    <string name="lbl_subtotal">الإجمالي الفرعي</string>
+    <string name="lbl_shipping_charge">عمولة التوصيل</string>
+    <string name="lbl_total_amount">القيمةالإجمالية</string>
+    <string name="btn_lbl_checkout">تفقد</string>
+    <string name="action_cart">سلتي</string>
+
+    <string name="lbl_out_of_stock">نفد من المخزن</string>
+    <string name="msg_item_removed_successfully">تم إزالة العنصر بنجاح</string>
+
+    <string name="msg_for_available_stock">الكمية المتبقية في المخزن هي %د.أ!. لا يمكنك إضافة المزيد.</string>
+
+    <string name="title_address_list">قائمة العناوين</string>
+    <string name="no_address_found">لم نعثر على أي عنوان!</string>
+    <string name="lbL_add_address">أضف عنوناً</string>
+
+    <string name="title_add_address">أضف عنوناً</string>
+    <string name="hint_full_name">الاسم الكامل</string>
+    <string name="hint_phone_number">رقم الهاتف</string>
+    <string name="hint_address">العنوان</string>
+    <string name="hint_zip_code">الرمز البريدي</string>
+    <string name="hint_additional_note">ملاحظات إضافية</string>
+    <string name="hint_other_details">تفاصيل أخرى</string>
+    <string name="lbl_home">المنزل</string>
+    <string name="lbl_office">المكتب</string>
+    <string name="lbl_other">أخرى</string>
+
+
+    <string name="err_msg_please_enter_full_name">يرجى إدخال الاسم الكامل</string>
+    <string name="err_msg_please_enter_phone_number">يرجى إدخال رقم الهاتف</string>
+    <string name="err_msg_please_enter_address">يرجى إدخال العنوان</string>
+    <string name="err_msg_please_enter_zip_code">يرجى إدخال الرمز البريدي</string>
+    <string name="err_msg_please_enter_other_details">يرجى إدخال تفاصيل إضافية</string>
+
+    <string name="err_your_address_added_successfully">تم إضافة عنوانك بنجاح</string>
+
+    <string name="title_edit_address">تعديل العنوان</string>
+    <string name="btn_lbl_update">تحديث</string>
+    <string name="msg_your_address_updated_successfully">تم إضافة عنوناك بنجاح</string>
+
+    <string name="err_your_address_deleted_successfully">تم حذف عنوانك بنجاح</string>
+    <string name="title_select_address">إخنر عنواناً</string>
+
+    <string name="title_checkout">تفقد</string>
+    <string name="checkout_lbl_product_items">عناصر المنتج</string>
+    <string name="checkout_lbl_selected_address">العناوين المختارة</string>
+    <string name="checkout_lbl_items_receipt">العناصر المستلمة</string>
+    <string name="lbl_payment_mode">طريقة الدفع</string>
+    <string name="lbl_cash_on_delivery">الدفع عند الإستلام</string>
+    <string name="btn_lbl_place_order">وضع الطلب</string>
+
+    <string name="no_orders_placed_yet">لم يتم وضع أي طلب!</string>
+
+    <string name="title_my_order_details">تفاصيل طلبي</string>
+    <string name="order_details_lbl">تفاصيل الطلب</string>
+    <string name="order_details_lbl_order_id">معرف الطلب</string>
+    <string name="order_details_lbl_order_date">تاريخ الطلب</string>
+    <string name="order_details_lbl_order_status">حالة الطلب</string>
+    <string name="order_status_pending">قيد الإنتظار</string>
+    <string name="order_details_lbl_shipping_address">عناوين التوصيل</string>
+
+    <string name="order_status_in_process">جاري العمل</string>
+    <string name="order_status_delivered">تم التوصيل</string>
+
+    <string name="title_sold_products">المنتجات المباعة</string>
+    <string name="no_products_sold_out_yet">لم يتم يبع اي منتج بعد!</string>
+
+    <string name="title_sold_product_details">تفاصيل المنتج المباع</string>
+
+</resources>
